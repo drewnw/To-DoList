@@ -19,7 +19,7 @@ cd To-DoList
 ```
 
 2. Run the script
-   python todo.py
+   '''python todo.py'''
 
 
    
