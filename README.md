@@ -8,7 +8,7 @@ A clean and minimalistic Python to-do list app with a GUI. This app lets you add
 - View all current tasks
 - Save tasks between sessions
 - Simple and clean GUI
-- 
+
 ## Installation
 
 1. Clone the repository:
