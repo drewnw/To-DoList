@@ -18,8 +18,9 @@ git clone https://github.com/drewnw/To-DoList.git
 cd To-DoList
 ```
 
-2. Run the script
-   '''python todo.py'''
+2. Run the script:
+
+```python todo.py```
 
 
    
